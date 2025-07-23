@@ -6,4 +6,6 @@ llama
 langchain with chromaDB for storing the vector database
 since mine has just 8GB RAM i used tinyllama
 vosk for text to speech generation
-pysptovoix
+py3to thers something which converts voice to text
+
+i have tried to update my data automatically when internet is available usimg auto_updater
