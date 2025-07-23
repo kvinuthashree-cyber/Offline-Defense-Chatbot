@@ -9,3 +9,4 @@ vosk for text to speech generation
 py3to thers something which converts voice to text
 
 i have tried to update my data automatically when internet is available usimg auto_updater
+dont use app.py run it using python main.py
